@@ -49,5 +49,5 @@ plt.tight_layout()
 showPlot(fig, '#plot')
 
 title = document.getElementById('title')
-name = 'Wael'
-title.innerHTML = f"hi, {name}!"
+name = 'Python'
+title.innerHTML = f"Hello, {name}!"
